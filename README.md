@@ -1,7 +1,9 @@
 # Emotional-gesture-papers
 
 ## Basic Emotion theories
+
 ***Emotion drives human behaviours (normal emotional gestures)
+
 **[1] Body Cues, Not Facial Expressions, Discriminate Between Intense Positive and Negative Emotions**
 - intro: Hillel Aviezer, nature 2012
 - point: it's the strong support to our work, gestures can be better than facial expressions
@@ -97,6 +99,7 @@
 
 
 ## DATASET
+
 **[1] ARBEE: Towards Automated Recognition of Bodily Expression of Emotion In the Wild**
 - intro: IJCV, bigest dataset
 - paper: [ https://arxiv.org/pdf/1808.09568.pdf](https://arxiv.org/pdf/1808.09568.pdf)
