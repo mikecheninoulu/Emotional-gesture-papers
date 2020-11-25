@@ -2,7 +2,7 @@
 
 ## Basic Emotion theories
 
-***Emotion drives human behaviours (normal emotional gestures)
+***Emotion drives human behaviours (normal emotional gestures)***
 
 **[1] Body Cues, Not Facial Expressions, Discriminate Between Intense Positive and Negative Emotions**
 - intro: Hillel Aviezer, nature 2012
@@ -23,7 +23,7 @@
 - point: support our work
 - paper: [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0066762#s8](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0066762#s8)
 
-***Micro gestures (different from normal emotional gestures)
+***Micro gestures (different from normal emotional gestures)***
 
 **[1] What Every BODY is Saying: An Ex-FBI Agent's Guide to Speed-Reading People**
 - intro: Joe Navarro, Marvin Karlins, 2009
@@ -82,6 +82,7 @@
 
 
 ## Some related methods for emotional gestures
+
 **[1] Recognizing emotions expressed by body pose: A biologically inspired neural model**
 - intro: Neural Networks 2008, KonradSchindle
 - point: from a decent group
@@ -96,6 +97,9 @@
 - intro: Emotion 2011.
 - point: University of Geneva (they publish a classical but old dataset) with this method
 - paper: [https://www.researchgate.net/publication/51780012_Emotion_Expression_in_Body_Action_and_Posture](https://www.researchgate.net/publication/51780012_Emotion_Expression_in_Body_Action_and_Posture)
+
+more state-of-the-art methods please see:
+https://smartblogchen.wordpress.com/2019/01/29/rgb-action-recognition-baseline/
 
 
 ## DATASET
@@ -113,21 +117,20 @@
 - intro: 2015. game setting is similar to our own dataset
 - paper: [https://dl.acm.org/doi/10.1145/2818346.2820745](https://dl.acm.org/doi/10.1145/2818346.2820745)
 
-
-**[3] Identifying Features of Bodily Expression As Indicators of Emotional Experience during Multimedia Learning**
+**[4] Identifying Features of Bodily Expression As Indicators of Emotional Experience during Multimedia Learning**
 - intro: Psychol., 2017. which is similar to our own dataset
 - paper: [https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01303/full](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01303/full)
 
-**[4] Automatic Recognition of Non-Acted Affective Postures**
+**[5] Automatic Recognition of Non-Acted Affective Postures**
 - intro: 2011 transactions on systems, man, and cybernetics. 
 - point: Non-Acted Affective Postures, a relative old one
 - paper(original one is in IEEE): [https://www.keer.org/keer2010/Papers/1964.pdf](https://www.keer.org/keer2010/Papers/1964.pdf)
 
-**[5] Bi-modal Emotion Recognition from Expressive Face and Body Gestures**
+**[6] Bi-modal Emotion Recognition from Expressive Face and Body Gestures**
 - intro: Hatice Gunes, classical but old dataset
 - paper: [https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1028.3325&rep=rep1&type=pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1028.3325&rep=rep1&type=pdf)
 
-**[6] : Emotion Expression in Body Action and Posture**
+**[7] : Emotion Expression in Body Action and Posture**
 - intro: Emotion 2011.
 - point: University of Geneva (they publish a classical but old dataset)
 - project: [https://www.researchgate.net/publication/51780012_Emotion_Expression_in_Body_Action_and_Posture](https://www.researchgate.net/publication/51780012_Emotion_Expression_in_Body_Action_and_Posture)
@@ -153,13 +156,13 @@
 
 
 ## Others
+
 **[1] Are There Basic Emotions?**
 - intro: Paul Ekman Group (the master in emotion field),1992
 - paper: [https://www.paulekman.com/wp-content/uploads/2013/07/Are-There-Basic-Emotions1.pdf](https://www.paulekman.com/wp-content/uploads/2013/07/Are-There-Basic-Emotions1.pdf)
 
 **[2] Paul Ekman Group papers, all about emotions**
 - paper list: [https://www.paulekman.com/resources/journal-articles/](https://www.paulekman.com/resources/journal-articles/)
-
 
 **[3] A good showcase of using MG**
 - Youtube link: https://www.youtube.com/watch?v=lj7QRP37Wn0&t=3031s
