@@ -167,7 +167,8 @@ https://smartblogchen.wordpress.com/2019/01/29/rgb-action-recognition-baseline/
 **[3] Good showcases of using MG**
 - Youtube link: https://www.youtube.com/watch?v=lj7QRP37Wn0&t=3031s
 - Youtube link: https://www.youtube.com/watch?v=MNWEuXg22CM
-
+- Youtube link: https://www.youtube.com/watch?v=HVjaePXSopY
+- Youtube link: https://www.youtube.com/watch?v=jln82IyG1G8
 | Updated: 2020/11/25|
 | :---------: |
 
