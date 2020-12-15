@@ -164,9 +164,9 @@ https://smartblogchen.wordpress.com/2019/01/29/rgb-action-recognition-baseline/
 **[2] Paul Ekman Group papers, all about emotions**
 - paper list: [https://www.paulekman.com/resources/journal-articles/](https://www.paulekman.com/resources/journal-articles/)
 
-**[3] A good showcase of using MG**
+**[3] Good showcases of using MG**
 - Youtube link: https://www.youtube.com/watch?v=lj7QRP37Wn0&t=3031s
-
+- Youtube link: https://www.youtube.com/watch?v=MNWEuXg22CM
 
 | Updated: 2020/11/25|
 | :---------: |
