@@ -1,5 +1,14 @@
 # Emotional-gesture-papers
 
+## Latest work
+
+**[1] Affect2MM: Affective Analysis of Multimedia Content Using Emotion Causality**
+- intro: University of Maryland 2021
+- point: emotion understanding in University of Maryland
+- paper: [https://arxiv.org/pdf/2103.06541.pdf
+](https://arxiv.org/pdf/2103.06541.pdf)
+- project: https://gamma.umd.edu/researchdirections/affectivecomputing/affect2mm/
+
 ## Basic Emotion theories
 
 ***Emotion drives human behaviours (normal emotional gestures)***
