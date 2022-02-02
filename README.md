@@ -32,6 +32,14 @@
 - point: support our work
 - paper: [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0066762#s8](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0066762#s8)
 
+
+**[5] Big Five OCEAN personality**
+- intro: five personalities
+- point: support to MG
+
+
+
+
 ***Micro gestures (different from normal emotional gestures)***
 
 **[1] What Every BODY is Saying: An Ex-FBI Agent's Guide to Speed-Reading People**
