@@ -9,6 +9,8 @@
 ](https://arxiv.org/pdf/2103.06541.pdf)
 - project: https://gamma.umd.edu/researchdirections/affectivecomputing/affect2mm/
 
+
+
 ## Basic Emotion theories
 
 ***Emotion drives human behaviours (normal emotional gestures)***
@@ -37,7 +39,10 @@
 - intro: five personalities
 - point: support to MG
 
-
+**[6] Bodily expression of emotion**
+- intro: others indicate that movement behavior (aside from facial expression) may be only indicative of the quantity (intensity) of emotion, but not of its quality
+- https://www.researchgate.net/publication/279936881_Bodily_expression_of_emotion
+- body expression is more of intensity, not quality
 
 
 ***Micro gestures (different from normal emotional gestures)***
