@@ -191,6 +191,13 @@ https://smartblogchen.wordpress.com/2019/01/29/rgb-action-recognition-baseline/
 - Youtube link: https://www.youtube.com/watch?v=MNWEuXg22CM
 - Youtube link: https://www.youtube.com/watch?v=HVjaePXSopY
 - Youtube link: https://www.youtube.com/watch?v=jln82IyG1G8
-| Updated: 2020/11/25|
+
+**[4] Deep Neural Network Augmentation: Generating Faces for Affect Analysis**
+- Enhance the emotion recognition with augmented generated data
+
+
+
+
+| Updated: 2022/07/31|
 | :---------: |
 
