@@ -9,6 +9,15 @@
 ](https://arxiv.org/pdf/2103.06541.pdf)
 - project: https://gamma.umd.edu/researchdirections/affectivecomputing/affect2mm/
 
+Pose-NDF: Modelling Human Pose Manifolds with Neural Distance Fields
+HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling
+Residual Attention: A Simple but Effective Method for Multi-Label Recognition
+MGSampler: An Explainable Sampling Strategy for Video Action Recognition
+Evidential Deep Learning for Open Set Action Recognition
+Learning De-biased Representations with Biased Representations 
+Shallow Bayesian Meta Learning for Real-World Few-Shot Recognition
+Beyond Trivial Counterfactual Explanations with Diverse Valuable Explanations
+
 
 
 ## Basic Emotion theories
