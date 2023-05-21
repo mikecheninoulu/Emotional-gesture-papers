@@ -213,6 +213,16 @@ https://smartblogchen.wordpress.com/2019/01/29/rgb-action-recognition-baseline/
 
 
 
+## Ideas
+
+Attribution emotion 
+Psychology theopy/yound old version emotional
+Alter ego/mirror/self regularization
+Understanding by iteration cognition
+psychology explore outer ego
+oxford hand book of ac 
+mirror instand of recognition
+emotion and well being resilence mindfulness, 
 
 | Updated: 2022/07/31|
 | :---------: |
