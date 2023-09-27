@@ -224,6 +224,54 @@ oxford hand book of ac
 mirror instand of recognition
 emotion and well being resilence mindfulness, 
 
-| Updated: 2022/07/31|
-| :---------: |
 
+
+
+
+## Unorganized
+Pose-NDF: Modelling Human Pose Manifolds with Neural Distance Fields
+HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling
+Residual Attention: A Simple but Effective Method for Multi-Label Recognition
+MGSampler: An Explainable Sampling Strategy for Video Action Recognition
+Evidential Deep Learning for Open Set Action Recognition
+Learning De-biased Representations with Biased Representations 
+Shallow Bayesian Meta Learning for Real-World Few-Shot Recognition
+Beyond Trivial Counterfactual Explanations with Diverse Valuable Explanations
+RDI-Net: Relational Dynamic Inference Networks
+Just One Moment: Structural Vulnerability of Deep Action Recognition against One Frame Attack
+EAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis
+Emotion Recognition for Multiple Context Awareness
+S2-VER: Semi-Supervised Visual Emotion Recognition
+Emotion-aware Multi-view Contrastive Learning for Facial Emotion Recognition
+Predicting is not Understanding: Recognizing and Addressing Underspecification in Machine Learning
+
+pami
+Recognizing action units for facial expression analysis
+Coupled Gaussian processes for pose-invariant facial expression recognition
+Hierarchical Spatio-Temporal Probabilistic Graphical Model with Multiple Feature Fusion for Binary Facial Attribute Classification in Real-World Face Videos
+Automatic Analysis of Facial Affect: A Survey of Registration, Representation, and Recognition
+Survey on RGB, 3D, Thermal, and Multimodal Approaches for Facial Expression Recognition: History, Trends, and Affect-Related Applications
+A Survey of Affect Recognition Methods: Audio, Visual, and Spontaneous Expressions
+Classification of Complex Information: Inference of Co-Occurring Affective States from Their Expressions in Speech
+CAS(ME)3: A Third Generation Facial Spontaneous Micro-Expression Database With Depth Information and High Ecological Validity
+Relative Hidden Markov Models for Video-Based Evaluation of Motion Skills in Surgical Training
+Video-Based Facial Micro-Expression Analysis: A Survey of Datasets, Features and Algorithms
+Discriminant Functional Learning of Color Features for the Recognition of Facial Action Units and Their Intensities
+Brain-Machine Coupled Learning Method for Facial Emotion Recognition
+Emotional Attention: From Eye Tracking to Computational Modeling
+A Novel Geometric Framework on Gram Matrix Trajectories for Human Behavior Understanding
+Emotion recognition based on physiological changes in music listening
+Toward machine emotional intelligence: analysis of affective physiological state
+A Survey of Affect Recognition Methods: Audio, Visual, and Spontaneous Expressions
+Context Based Emotion Recognition Using EMOTIC Dataset
+Dawn of the Transformer Era in Speech Emotion Recognition: Closing the Valence Gap
+Nonlinear Regression via Deep Negative Correlation Learning
+Toward machine emotional intelligence: analysis of affective physiological state
+Dynamic Probabilistic CCA for Analysis of Affective Behavior and Fusion of Continuous Annotations
+SEWA DB: A Rich Database for Audio-Visual Emotion and Sentiment Research in the Wild
+Affective Image Content Analysis: Two Decades Review and New Perspectives
+Classification of Complex Information: Inference of Co-Occurring Affective States from Their Expressions in Speech
+
+
+| Updated: 2023/09/27|
+| :---------: |
